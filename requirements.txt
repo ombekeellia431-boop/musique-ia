@@ -6,7 +6,5 @@ numpy
 scipy
 torch
 transformers
-streamlit
+steamlit
 audiocraft
-
-print("requirements.txt created successfully.")
