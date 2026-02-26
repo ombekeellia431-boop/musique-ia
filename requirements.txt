@@ -1,6 +1,4 @@
-moviepy
+streamlit
+noviepy
 numpy
 scipy
-torch
-transformers
-steamlit
